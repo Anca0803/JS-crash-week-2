@@ -1,0 +1,14 @@
+{
+  "name": "homweork",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anca Irimia <anca_8iri@hotmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
